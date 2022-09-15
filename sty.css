@@ -1,0 +1,38 @@
+.p1 {
+    color:rgb(83, 14, 85);
+}
+
+body {
+    background-color: saddlebrown;
+}
+
+ul > * {
+    background-color: aquamarine;
+    text-align: center;
+    list-style-type: none;
+}
+
+#o {
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    border: 20px rgb(39, 139, 84) dotted;
+}
+* {
+    font-style: italic;
+}
+
+span{
+    background-color: burlywood;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul > li {
+    list-style: none;
+    margin-inline: 2rem 2rem 2rem 2rem;
+}
+
